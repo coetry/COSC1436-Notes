@@ -80,6 +80,23 @@ Since a computer can't directly execute assembly language instructions, they nee
 Even though Assembly is easier to write than raw machine code, it still requires the programmer to think in terms of individual processing instructions and is very taxing to solve simple problems. This is why _higher-level_ languages such as FORTRAN, COBOL, C, C++, and Java were created. Nowadays, even those languages are considered to be low-level languages and scripting languages like Perl, Ruby, and Python and thought of as higher-level. Just like Assembly code is translated to machine code through an assembler, code from languages like C++ are translated to machine code through a compiler. 
 
 
+## Processing a C++ Program
+
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+	cout << "Hello World!" << endl;
+	
+	return 0;
+}
+```
+
+the part of the source code that looks like `#include <iostream` is called a _pre-processor directive_, which is processed by another program called a _preprocessor_. After the pre-processor statements are processed, a compiler checks the source code for any syntax errors, and if all passes, the source code is transformed to object code (machine code). Then a _linker_ combines the object code with other libraries to produce the final program that will be loaded by the _loader_ and executed by _main-memory_.
+
 
 
 
