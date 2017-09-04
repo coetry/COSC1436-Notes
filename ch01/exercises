@@ -1,0 +1,70 @@
+1.)
+  a.) False
+  b.) False
+  c.) True
+  d.) False
+  e.) False
+  f.) False
+  g.) False
+  h.) True
+  i.) True
+  j.) False
+  k.) False
+  l.) False
+
+2.) Arithmetic and Logical Operations
+
+3.) CPU, Memory (RAM), I/O Devices
+
+4.) To save data when the computer is turned off.
+    When the computer is turned back on, it can
+    be loaded off the secondary storage.
+
+5.) An operating system manages the resources
+    of the computer and provides services for
+    the user and the programs that run on it
+
+6.)
+
+7.) Machine languages are written in binary
+    and aren't always portable accross different
+    machines, whereas high-level languages are
+    expressed in a language closer to spoken
+    language and can be portable accross different
+    machines
+
+8.) A source program is a text file expressed
+    by the programmer in a high level-language.
+    The source program adheres to the syntax
+    rules defined by the high level-language.
+
+9.) A compiler translates the high-level language
+    to machine code that can be executed by the
+    computer
+
+10.) A compiler reports syntax errors
+
+11.) A computer can only execute binary
+     instructions defined by the chip. It
+     cannot understand the syntax of higher-level
+     languages.
+
+12.) A high-level language allows the programmer
+     to spend more time thinking about the actual
+     problem instead of how the computer executes
+     instructions.
+
+13.) Linking is when external libraries are combined
+     with the compiled object code.
+
+
+14.) Problem analysis and algorithm design allows
+     one to clearly understand a problem so it
+     can be broken down into easy to follow steps.
+     Those steps can be translated to a high-level
+     program much quicker and maintaining it in the
+     future will be easier as well.
+
+15.) 
+
+
